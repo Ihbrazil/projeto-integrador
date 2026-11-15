@@ -1,17 +1,19 @@
 # Projeto Integrador - ReactJS
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Licença Acadêmica](https://img.shields.io/badge/Licença-Acadêmica-blue?style=for-the-badge)](#-licença)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/Ihbrazil/projeto-integrador)
+[![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PROJETO.vercel.app)
+[![Licença](https://img.shields.io/badge/Licença-Acadêmica-blue?style=for-the-badge)](#-licença)
 
-Aplicação Front-end desenvolvida com ReactJS como parte da disciplina de Projeto Integrador. O projeto tem como objetivo aplicar conceitos fundamentais do desenvolvimento web moderno, incluindo componentização, roteamento, autenticação e gerenciamento de dados.
+Aplicação Front-end desenvolvida com ReactJS e TypeScript como parte da disciplina de Projeto Integrador. O projeto tem como objetivo aplicar conceitos fundamentais do desenvolvimento web moderno, incluindo componentização, roteamento, autenticação e gerenciamento de dados.
 
 ## 🚀 Tecnologias Utilizadas
 - ReactJS
-- JavaScript
+- TypeScript
 - React Router
 - Tailwind CSS
 - Vite
@@ -25,16 +27,17 @@ Aplicação Front-end desenvolvida com ReactJS como parte da disciplina de Proje
 - Componentes e serviços reutilizáveis
 
 ## 🎯 Objetivo
-Desenvolver uma aplicação moderna e responsiva, aplicando boas práticas de desenvolvimento Front-end com ReactJS.
+Desenvolver uma aplicação moderna e responsiva, aplicando boas práticas de desenvolvimento Front-end com ReactJS e TypeScript.
 
 ## 📚 Conteúdos Aplicados
-- Configuração de projetos React
+- Configuração de projetos React com TypeScript
 - Estilização com Tailwind CSS
 - Navegação entre páginas
 - Autenticação e autorização
 - Consumo de APIs
 - Reutilização de componentes
 - Gerenciamento de estado e requisições
+- Tipagem estática com TypeScript
 
 ## ⚙️ Instalação
 Clone o repositório:
@@ -60,6 +63,12 @@ Após a inicialização, acesse a aplicação no navegador:
 http://localhost:5173
 ```
 
+## 🌐 Deploy
+A aplicação está disponível online através da plataforma Vercel.
+```text
+https://SEU-PROJETO.vercel.app
+```
+
 ## 📂 Estrutura do Projeto
 ```text
 src/
@@ -71,8 +80,8 @@ src/
 ├── hooks/          # Hooks personalizados
 ├── contexts/       # Contextos globais
 ├── utils/          # Funções auxiliares
-├── App.jsx         # Componente principal
-└── main.jsx        # Ponto de entrada da aplicação
+├── App.tsx         # Componente principal
+└── main.tsx        # Ponto de entrada da aplicação
 ```
 
 ## 📄 Licença
