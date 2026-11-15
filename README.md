@@ -37,17 +37,14 @@ Desenvolver uma aplicação moderna e responsiva, aplicando boas práticas de de
 - Gerenciamento de estado e requisições
 
 ## ⚙️ Instalação
-
 Clone o repositório:
 ```bash
 git clone https://github.com/Ihbrazil/projeto-integrador.git
 ```
-
 Acesse a pasta do projeto:
 ```bash
 cd projeto-integrador
 ```
-
 Instale as dependências:
 ```bash
 npm install
@@ -58,7 +55,6 @@ Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
 ```
-
 Após a inicialização, acesse a aplicação no navegador:
 ```text
 http://localhost:5173
