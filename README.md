@@ -19,6 +19,7 @@ Aplicação Front-end desenvolvida com ReactJS e TypeScript como parte da discip
 - Vite
 
 ## ✨ Funcionalidades
+- Página "Fale conosco", acessível pelo rodapé. O envio de mensagens ainda não está integrado a um serviço.
 - CRUD completo para gerenciamento de dados
 - Autenticação de usuários
 - Rotas públicas e privadas
