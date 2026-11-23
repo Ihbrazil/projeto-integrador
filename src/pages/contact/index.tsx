@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import UserTemplate from '../../templates/user-template';
 import * as Yup from 'yup';
 import { useForm } from 'react-hook-form';
