@@ -31,7 +31,7 @@ export default function Contact() {
   return (
     <UserTemplate>
       <section className="w-full max-w-2xl mx-auto py-6">
-        <h1 className="text-3xl font-bold text-primary mb-6">Unybay</h1>
+        <h1 className="text-primary text-3xl text-center font-bold mb-6">Unybay</h1>
         <p className="text-center font-bold text-black mb-6">Fale conosco através do formulário abaixo</p>
         <form
           className="space-y-4"
@@ -63,7 +63,7 @@ export default function Contact() {
           </div>
 
           <button
-            className="bg-primary text-white px-8 py-2 rounded-lg"
+            className="bg-primary text-white w-full px-8 py-2 rounded-lg"
           >
               Enviar
           </button>
