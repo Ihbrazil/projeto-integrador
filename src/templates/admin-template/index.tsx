@@ -1,6 +1,6 @@
 import type { PropsWithChildren } from 'react';
-import Footer from '../../components/footer';
-import HeaderAdmin from '../../components/header-admin';
+import Footer from '../../components/footer/index.tsx';
+import HeaderAdmin from '../../components/header-admin/index.tsx';
 
 type AuthTemplateProps = PropsWithChildren & {};
 

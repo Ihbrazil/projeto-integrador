@@ -1,5 +1,5 @@
 import type { PropsWithChildren } from 'react';
-import Footer from '../../components/footer';
+import Footer from '../../components/footer/index.tsx';
 
 type AuthTemplateProps = PropsWithChildren & {};
 

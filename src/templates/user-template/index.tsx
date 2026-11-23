@@ -1,6 +1,6 @@
 import type { PropsWithChildren } from 'react';
-import Footer from '../../components/footer';
-import Header from '../../components/header';
+import Footer from '../../components/footer/index.tsx';
+import Header from '../../components/header/index.tsx';
 
 type UserTemplateProps = PropsWithChildren & {};
 
