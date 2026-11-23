@@ -26,7 +26,7 @@ export default function Contact() {
       });
 
   function enviar() {
-    alert("Mensagem enviada com sucesso!");
+    alert("Mensagem não enviada. Formulário ainda não disponível!");
   }
 
   return (
@@ -65,7 +65,7 @@ export default function Contact() {
 
           <button
             className="bg-primary text-white px-8 py-2 rounded-lg"
-            onClick={() => alert("Mensagem não enviada. Formulário ainda não disponível!")}>
+          >
               Enviar
           </button>
         </form>
