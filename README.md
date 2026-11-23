@@ -67,7 +67,7 @@ http://localhost:5173
 ## 🌐 Deploy
 A aplicação está disponível online através da plataforma Vercel.
 ```text
-https://projeto-integrador-flame.vercel.app
+https://projeto-integrador-five-delta.vercel.app
 ```
 
 ## 📂 Estrutura do Projeto
